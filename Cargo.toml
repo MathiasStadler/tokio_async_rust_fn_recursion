@@ -1,0 +1,6 @@
+[package]
+name = "tokio_async_rust_fn_recursion"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
